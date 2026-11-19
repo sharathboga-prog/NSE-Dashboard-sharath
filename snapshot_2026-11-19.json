@@ -1,0 +1,10 @@
+{
+  "created_as_of": "2026-11-19",
+  "timezone": "Asia/Kolkata",
+  "verified_context": [
+    {"topic": "India VIX", "value": 15.56, "unit": "index points", "date": "2026-11-18", "time": "15:30 IST close", "source": "HDFC Sky", "url": "https://hdfcsky.com/news/india-vix-closes-at-15-56-up-0-26percent-as-sensex-and-nifty-decline-on-domestic-and-global-cues", "caveat": "Previous session close; not a current quote"},
+    {"topic": "NIFTY 50", "value": "below 25,250", "date": "2026-11-18", "time": "market close IST", "source": "Upstox market wrap", "url": "https://upstox.com/news/market-news/stocks/market-wrap-nov-18-sensex-falls-500-pts-nifty-50-ends-below-25-250-126-stocks-hits-lower-circuit-titan-company-top-loser/article-203645/", "caveat": "Approximate threshold from headline, not a precise closing price"},
+    {"topic": "FII/DII provisional NSE cash segment", "date": "2026-11-13", "value": "FII +5,253.98 ₹Cr; DII -1,970.73 ₹Cr", "source": "NSE India", "url": "https://www.nseindia.in/reports/fii-dii?os=0", "caveat": "Historical NSE-only table as indexed; may be outdated and provisional"},
+    {"topic": "Market news", "date": "2026-11-19", "value": "Moneycontrol opening bell: tepid global cues; Brent around $93", "source": "Moneycontrol", "url": "https://www.moneycontrol.com/news/videos/business/earnings/live-nifty-may-extend-loss-amid-tepid-global-cues-brent-at-93-opening-bell-14084127.html", "caveat": "News headline, not an independent live commodity quote"}
+  ]
+}
